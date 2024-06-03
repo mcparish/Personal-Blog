@@ -1,0 +1,43 @@
+body {
+    font-size: 10px;
+    
+}
+
+
+header {
+    
+
+    text-align: left;
+    border-bottom: solid black 2px;
+    font-size: 15px;
+    
+    
+}
+
+button {
+    background-color: #a9a9a9;
+    border: none;
+    color: #fff;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 900px;
+    border-radius: 5px;
+    
+    
+
+    
+}
+
+main {
+
+    border-bottom: solid black;
+}
+ #checkbox {
+
+    margin-left: 1000px;
+
+ }
+

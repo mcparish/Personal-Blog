@@ -1,0 +1,96 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f8ff;
+    text-align: left;
+    border-top: 2px double black;
+    margin-top: 60px;
+    border-left: 2px double black;
+    border-right: 2px double black;
+    border-bottom: 2px double black;
+    
+  
+}
+
+
+
+header {
+
+    border-bottom: #0000ff 20px;
+}
+
+.blog-title {
+
+    font-size: 50px;
+    margin: 0px;
+    margin-top: 2.5em;
+    margin-bottom: 0.45em;
+    margin-left: -90%;
+    
+    
+}
+
+section {
+    margin-top: 3.5em;
+
+}
+
+
+
+main {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    padding: 20px;
+}
+
+#button {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    width: 200%;
+
+}
+
+#username {
+    background-color: azure;
+    border-radius: 3px;
+    border-width: 1px;
+    color:darkblue;
+    font-size: 1.1em;
+    height: 25px;
+    line-height: 20px;
+    margin: 0;
+    margin-top: 10px;
+    width: 200%;
+
+
+}
+
+#text-input {
+    background-color: azure;
+    border-radius: 3px;
+    border-width: 1px;
+    color:black;
+    font-size: 1.1em;
+    height: 25px;
+    line-height: 20px;
+    margin: 0;
+    margin-top: 10px;
+    width: 200%;
+
+}
+
+#content-input {
+    background-color: azure;
+    border-radius: 3px;
+    border-width: 1px;
+    color: black;
+    font-size: 1.1em;
+    height: 100px;
+    line-height: 60px;
+    margin: 0;
+    margin-top: 10px;
+    width: 200%;
+    
+
+}
